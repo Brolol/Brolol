@@ -78,48 +78,27 @@ Online storefront serving customers across the UK market.
 ## 🕸️ GitHub Stats
 
 <div align="center">
-
 <table>
 <tr>
-
 <td align="center">
-<img
-src="https://github-readme-stats-five-sepia-23.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff"
-width="100%"
-/>
+<img src="https://github-readme-stats-five-sepia-23.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="100%" />
 </td>
-
 <td align="center">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636&sideLabels=ffffff&dates=ffffff"
-width="100%"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636&sideLabels=ffffff&dates=ffffff" width="100%" />
 </td>
-
 </tr>
-
 <tr>
-
-<td colspan="2" align="center">
-<img
-src="https://github-readme-stats-five-sepia-23.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff&hide=CMake"
-width="50%"
-/>
+<td align="center" colspan="2">
+<img src="https://github-readme-stats-five-sepia-23.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff&hide=CMake" width="50%" />
 </td>
-
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 <div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=venom&color=0:e23636,100:0a0a0a&height=100&section=footer"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e23636,100:0a0a0a&height=100&section=footer" width="100%" />
 
 <br/>
 
