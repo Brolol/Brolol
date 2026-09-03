@@ -4,10 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=650&lines=with+great+code+comes+great+responsibility;Co-Founder+%40+Plgdin+Innovations+LLP;AI+%2F+ML+Engineer+%C2%B7+Full-Stack+Developer;I+audit+my+own+code+hard+enough+to+find+the+bugs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=800&lines=with+great+code+comes+great+responsibility;Co-Founder+%40+Plgdin+Innovations+LLP;AI+%2F+ML+Engineer+%C2%B7+Full-Stack+Developer;I+audit+my+own+code+hard+enough+to+find+the+bugs)](https://git.io/typing-svg)
 
-<a href="https://github.com/plgdin"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e23636"/></a>
-<a href="mailto:anshajshaji3@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e23636"/></a>
+<a href="https://github.com/Brolol"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e23636"/></a>
+<a href="mailto:anshajshaji@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e23636"/></a>
+<a href="tel:+919778052356"><img src="https://img.shields.io/badge/Phone-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=e23636"/></a>
 <img src="https://img.shields.io/badge/Trivandrum,_Kerala-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=e23636"/>
 
 </div>
@@ -28,7 +29,7 @@ Software Engineer and UI/UX Designer building scalable web applications from con
 - 🏢 Co-Founder, **Plgdin Innovations LLP** (2025–present)
 - 🛡️ Ex-Intern, **Kerala State IT Mission** (CERT division) — cybersecurity & digital governance
 - 🏆 1st place, E.L.S.A @ IoT Hackathon · 2nd place, Automatic Segregating Waste Dispenser @ Sustainable Innovation Exhibition
-- 📝 Patent applications granted for E.L.S.A and its design
+- 📝 Patent applications filed for E.L.S.A and its design
 - 🗣️ English & Malayalam (fluent) · Tamil & Hindi (intermediate)
 - 🕷️ Open to full-stack / AI-systems roles and freelance UI/UX + dev work
 
@@ -88,10 +89,10 @@ _Add a one-line description of what Aidezel does here._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=plgdin&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=plgdin&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgdin&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff" width="48%"/>
 
 </div>
 
