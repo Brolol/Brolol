@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:e23636&height=220&section=header&text=ANSHAJ%20SHAJI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:e23636&height=220&section=header&text=ANSHAJ%20SHAJI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%2F%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -13,13 +13,7 @@
 
 </div>
 
-<br/>
-
-```
-    ╲│╱      ╲│╱      ╲│╱      ╲│╱      ╲│╱
-  ──┼───────┼───────┼───────┼───────┼──
-    ╱│╲      ╱│╲      ╱│╲      ╱│╲      ╱│╲
-```
+---
 
 ## 🕸️ About
 
@@ -53,11 +47,7 @@ Software Engineer and UI/UX Designer building scalable web applications from con
 
 </div>
 
-```
-    ╲│╱      ╲│╱      ╲│╱      ╲│╱      ╲│╱
-  ──┼───────┼───────┼───────┼───────┼──
-    ╱│╲      ╱│╲      ╱│╲      ╱│╲      ╱│╲
-```
+---
 
 ## 🕸️ Projects
 
@@ -77,11 +67,11 @@ E-commerce storefront for small-batch kurtis, co-ords, salwar sets, and occasion
 Personal portfolio website for filmmaker and actor Tarun Kapoor.
 `Next.js` `Portfolio Design`
 
-### 🕷️ [Aidezel](https://aidezel.co.uk) — UK-based Business Platform
-_Add a one-line description of what Aidezel does here._
-`React` `UK Market`
+### 🕷️ [Aidezel](https://aidezel.co.uk) — UK-based E-commerce Platform
+Online storefront serving customers across the UK market.
+`React` `UI/UX` `E-commerce` `UK Market`
 
-<sub>...and various others — add more as you like, same format.</sub>
+<sub>...and various others </sub>
 
 <br/>
 
@@ -89,10 +79,10 @@ _Add a one-line description of what Aidezel does here._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats-five-sepia-23.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats-five-sepia-23.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff" width="48%"/>
 
 </div>
 
