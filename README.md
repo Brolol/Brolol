@@ -75,14 +75,31 @@ Online storefront serving customers across the UK market.
 
 <br/>
 
+<!-- 🕸️ GitHub Stats -->
 ## 🕸️ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-five-sepia-23.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636" width="48%"/>
+  <!-- GitHub Overall Stats -->
+  <img 
+    src="https://github-readme-stats-five-sepia-23.vercel.app/api?username=Brolol&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&icon_color=e23636&text_color=ffffff"
+    width="48%"
+  />
 
-<img src="https://github-readme-stats-five-sepia-23.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff" width="48%"/>
+  <!-- Contribution Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Brolol&theme=dark&hide_border=true&background=0a0a0a&ring=e23636&fire=e23636&currStreakLabel=e23636&sideLabels=ffffff&dates=ffffff"
+    width="48%"
+  />
+
+  <br/><br/>
+
+  <!-- Most Used Languages -->
+  <!-- CMake is hidden -->
+  <img 
+    src="https://github-readme-stats-five-sepia-23.vercel.app/api/top-langs/?username=Brolol&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e23636&text_color=ffffff&hide=CMake"
+    width="48%"
+  />
 
 </div>
 
@@ -90,8 +107,14 @@ Online storefront serving customers across the UK market.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e23636,100:0a0a0a&height=100&section=footer"/>
+  <!-- Spider-themed Footer -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:e23636,100:0a0a0a&height=100&section=footer"
+    width="100%"
+  />
 
-**"With great code comes great responsibility."**
+  <br/>
+
+  **"With great code comes great responsibility."**
 
 </div>
