@@ -17,13 +17,13 @@
 
 ## 🕸️ About
 
-Software Engineer and UI/UX Designer building scalable web applications from concept to deployment. Co-Founder at **Plgdin Innovations LLP**, leading product design and development for startups and government initiatives — including the **SafeTech** platform under the Kerala IT Mission. Currently pursuing a B.Tech in AI & Machine Learning, with two patent applications filed and a DPIIT-recognized startup under my belt.
+Software Engineer and UI/UX Designer building scalable web applications from concept to deployment. Co-Founder at **Plgdin Innovations LLP**, leading product design and development for startups and government initiatives — including the **SafeTech** platform under the Kerala IT Mission. Currently pursuing a B.Tech in AI & Machine Learning, with two patents granted and a DPIIT-recognized startup under my belt.
 
 - 🎓 B.Tech, Artificial Intelligence & Machine Learning — Marian Engineering College (2023–2027)
 - 🏢 Co-Founder, **Plgdin Innovations LLP** (2025–present)
 - 🛡️ Ex-Intern, **Kerala State IT Mission** (CERT division) — cybersecurity & digital governance
 - 🏆 1st place, E.L.S.A @ IoT Hackathon · 2nd place, Automatic Segregating Waste Dispenser @ Sustainable Innovation Exhibition
-- 📝 Patent applications filed for E.L.S.A and its design
+- 📝 Patent applications granted for E.L.S.A and its design
 - 🗣️ English & Malayalam (fluent) · Tamil & Hindi (intermediate)
 - 🕷️ Open to full-stack / AI-systems roles and freelance UI/UX + dev work
 
